@@ -2,13 +2,9 @@
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Ahmad11/](https://github.com/Muhammad-Ahmad11/)
-
-- 💬 Ask me about **C++, C, Java, Python, App Dev.**
+- 💬 Ask me about **C++, C, Java, Python, App Dev., Flutter**
 
 - 📫 How to reach me **muhammadahmad.dev1@gmail.com**
-
-- ⚡ Fun fact **I am creative.**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
