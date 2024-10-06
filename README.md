@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate code warrior from Lahore, Pakistan</h3>
 
-- 💬 Ask me about **C++, C, Java, Python, App Dev., Flutter**
+- 💬 Ask me about **C++, C, Java, Python, Android App Dev., Flutter**
 
 - 📫 How to reach me **muhammadahmad.dev1@gmail.com**
 
