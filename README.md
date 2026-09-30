@@ -21,7 +21,7 @@
 
 I'm a software developer from **Lahore, Pakistan**, passionate about building reliable, well-crafted applications. I enjoy turning ideas into products, writing clean code, and continuously sharpening my skills across mobile, backend, and systems programming.
 
-- 🔭 Currently working on: *add your current project here*
+<!-- - 🔭 Currently working on: *add your current project here* -->
 - 🌱 Currently learning: **Backend development and AI**
 - 💬 Ask me about: **Swift, React Native, React, JavaScript, TypeScript, Python**
 - 🤝 Open to: collaborations, open-source contributions, and interesting opportunities
