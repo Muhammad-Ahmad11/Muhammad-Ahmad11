@@ -15,14 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
       - name: Generate stats card (light)
         uses: stats-organization/github-readme-stats-action@v2
         with:
@@ -54,6 +46,14 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117
           path: dist/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v4
