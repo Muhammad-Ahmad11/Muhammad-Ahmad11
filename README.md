@@ -1,10 +1,10 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=190&section=header&text=Muhammad%20Ahmad&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20iOS%20%C2%B7%20React%20Native%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descSize=16&descAlignY=58" alt="Muhammad Ahmad — Software Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=190&section=header&text=Muhammad%20Ahmad&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%C2%B7%20React%20Native%20%C2%B7%20AI%20%C2%B7%20iOS&descSize=16&descAlignY=58" alt="Muhammad Ahmad — Software Engineer" width="100%"/>
 
 <a href="https://github.com/Muhammad-Ahmad11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+clean%2C+scalable+software;Swift+%C2%B7+React+Native+%C2%B7+React+%C2%B7+TypeScript;Systems+programming+in+C+%26+C%2B%2B;Exploring+backend+%26+AI+engineering;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-stack+web+with+React%2C+Node+%26+TypeScript;Cross-platform+mobile+with+React+Native;Python+%26+AI-powered+apps;Building+clean%2C+scalable+software;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing intro"/>
 </a>
 
 <p>
@@ -23,15 +23,16 @@
 const ahmad = {
   role:      "Software Engineer",
   location:  "Lahore, Pakistan 🇵🇰",
-  focus:     ["iOS (Swift)", "React Native", "React + TypeScript", "Full-stack web"],
+  focus:     ["Full-stack web", "React + TypeScript", "Node.js + Express", "Python", "React Native"],
+  alsoBuild: ["AI / LLM-powered features", "iOS (Swift)"],
   roots:     ["C / C++ systems programming", "Data structures & algorithms"],
-  learning:  ["Scalable backend systems", "AI / LLM-powered apps"],
+  learning:  ["Scalable backend systems", "Production AI engineering"],
   values:    ["Clean code", "Readable architecture", "Shipping things people use"],
-  openTo:    ["Full-time roles", "Freelance", "Open-source collaboration"],
+  openTo:    ["Full-stack roles", "React Native roles", "Freelance"],
 };
 ```
 
-I like owning a feature end to end — from data model and API to a polished mobile or web UI. My background in C/C++ (shells, hash tables, OpenGL) shapes how I think about performance and correctness, even when I'm writing TypeScript or Swift.
+I like owning a feature end to end — from data model and API to a polished web or mobile UI. My background in C/C++ (shells, hash tables, OpenGL) shapes how I think about performance and correctness, even when I'm writing TypeScript or Swift.
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -39,32 +40,42 @@ I like owning a feature end to end — from data model and API to a polished mob
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Muhammad-Ahmad11/Frameup">📱 Frameup</a></h3>
-      <p>A platform that brings university societies into one place — discover societies, follow events, and manage memberships and roles without the group-chat chaos.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <h3><a href="https://github.com/Muhammad-Ahmad11/amazon-clone-8x">🛒 Amazon Clone</a></h3>
+      <p>An Amazon-inspired storefront with typeahead search, URL-driven filters, product variants, a persistent cart with stock checks, and a single-page checkout. Every page handles loading, error and empty states. <a href="https://amazon-clone-8x-navy.vercel.app"><b>Live demo →</b></a></p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">🐚 LinuxShell-C</a></h3>
-      <p>A working Unix shell written from scratch. Parses and runs commands with pipes and I/O redirection using <code>fork()</code>, <code>execvp()</code> and a custom tokenizer.</p>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+      <h3><a href="https://github.com/Muhammad-Ahmad11/MealMaven">🥗 MealMaven</a></h3>
+      <p>A MERN fitness platform with goal tracking, personalised diet plans and AI recipe suggestions generated with the ChatGPT API.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Muhammad-Ahmad11/Car-Price-Prediction">🚗 Car Price Prediction</a></h3>
+      <p>An XGBoost regression model that estimates used-car prices from specs, age and mileage, served through an interactive Streamlit app.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Muhammad-Ahmad11/Handwritten-Digit-Classification">🧠 Handwritten Digit Classification</a></h3>
       <p>A convolutional neural network trained on MNIST that recognises handwritten digits with high accuracy, built to explore feature extraction and model tuning.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep learning"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">🗂️ File Repository System</a></h3>
-      <p>A generic, template-based hash table for file management, with a priority waiting queue that coordinates concurrent read and write requests.</p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/Data%20Structures-6E40C9?style=flat-square" alt="Data structures"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>Systems work in C/C++: <a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">LinuxShell-C</a> · <a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">File Repository System</a> &nbsp;|&nbsp; Mobile: <a href="https://github.com/Muhammad-Ahmad11/Frameup">Frameup</a> · <a href="https://github.com/Muhammad-Ahmad11/Flutter-Apps">Flutter Apps</a></sub></p>
 
 <p align="center"><a href="https://github.com/Muhammad-Ahmad11?tab=repositories"><b>→ See all repositories</b></a></p>
 
@@ -75,10 +86,12 @@ I like owning a feature end to end — from data model and API to a polished mob
 
 | Area | Tools |
 |:---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=swift,ts,js,py,java,cpp,c&theme=dark" alt="Languages"/> |
-| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Mobile and frontend"/> |
-| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" alt="Backend and cloud"/> |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tooling"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,swift&theme=dark" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend"/> |
+| **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and data"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,swift&theme=dark" alt="Mobile: React Native and Swift"/> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" alt="AI and ML"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode&theme=dark" alt="Tooling"/> |
 
 </div>
 
@@ -116,7 +129,7 @@ I like owning a feature end to end — from data model and API to a polished mob
 
 <div align="center">
 
-Hiring for mobile or full-stack work, or have an idea worth building? I reply fast.
+Hiring for full-stack or React Native work, or have an idea worth building? I reply fast.
 
 📫 **muhammadahmad.dev1@gmail.com** &nbsp;·&nbsp; 💼 [linkedin.com/in/muhammad-ahmad-dev](https://www.linkedin.com/in/muhammad-ahmad-dev)
 
