@@ -87,14 +87,15 @@ I like owning a feature end to end — from data model and API to a polished mob
 
 <div align="center">
 
-<!-- Cards switch automatically between light and dark to match the viewer's GitHub theme -->
+<!-- Stats cards and snake are generated daily by .github/workflows/snake.yml.
+     Cards switch automatically between light and dark to match the viewer's GitHub theme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad11&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/stats-dark.svg"/>
+  <img height="165" src="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/stats.svg" alt="GitHub stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad11&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad11&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/top-langs-dark.svg"/>
+  <img height="165" src="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/top-langs.svg" alt="Top languages"/>
 </picture>
 
 <picture>
