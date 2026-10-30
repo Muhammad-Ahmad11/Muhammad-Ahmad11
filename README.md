@@ -1,86 +1,126 @@
-<!-- Header banner -->
+<!-- ================= HEADER ================= -->
 <div align="center">
 
-<!-- Animated typing intro -->
-<a href="https://github.com/muhammad-ahmad11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Building+clean%2C+scalable+software;Swift+%C2%B7+React+Native+%C2%B7+React+%C2%B7+TypeScript;Full-stack+%26+AI+development;Based+in+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Always+learning%2C+always+shipping" alt="Typing intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=190&section=header&text=Muhammad%20Ahmad&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20iOS%20%C2%B7%20React%20Native%20%C2%B7%20Full-Stack%20%C2%B7%20AI&descSize=16&descAlignY=58" alt="Muhammad Ahmad — Software Engineer" width="100%"/>
+
+<a href="https://github.com/Muhammad-Ahmad11">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Building+clean%2C+scalable+software;Swift+%C2%B7+React+Native+%C2%B7+React+%C2%B7+TypeScript;Systems+programming+in+C+%26+C%2B%2B;Exploring+backend+%26+AI+engineering;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing intro"/>
 </a>
 
-<br/><br/>
-
-<a href="mailto:muhammadahmad.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/muhammad-ahmad-42776723a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/muhammad-ahmad11"><img src="https://img.shields.io/github/followers/muhammad-ahmad11?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=muhammad-ahmad11&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views"/>
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:muhammadahmad.dev1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmad11&label=Views&color=2F81F7&style=for-the-badge" alt="Profile views"/>
+</p>
 
 </div>
 
----
+<!-- ================= ABOUT ================= -->
+## 👋 About Me
 
-## 👨‍💻 About Me
+```ts
+const ahmad = {
+  role:      "Software Engineer",
+  location:  "Lahore, Pakistan 🇵🇰",
+  focus:     ["iOS (Swift)", "React Native", "React + TypeScript", "Full-stack web"],
+  roots:     ["C / C++ systems programming", "Data structures & algorithms"],
+  learning:  ["Scalable backend systems", "AI / LLM-powered apps"],
+  values:    ["Clean code", "Readable architecture", "Shipping things people use"],
+  openTo:    ["Full-time roles", "Freelance", "Open-source collaboration"],
+};
+```
 
-I'm a software developer from **Lahore, Pakistan**, passionate about building reliable, well-crafted applications. I enjoy turning ideas into products, writing clean code, and continuously sharpening my skills across mobile, backend, and systems programming.
+I like owning a feature end to end — from data model and API to a polished mobile or web UI. My background in C/C++ (shells, hash tables, OpenGL) shapes how I think about performance and correctness, even when I'm writing TypeScript or Swift.
 
-<!-- - 🔭 Currently working on: *add your current project here* -->
-- 🌱 Currently learning: **Backend development and AI**
-- 💬 Ask me about: **Swift, React Native, React, JavaScript, TypeScript, Python**
-- 🤝 Open to: collaborations, open-source contributions, and interesting opportunities
-- 📫 Reach me at: **muhammadahmad.dev1@gmail.com**
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Muhammad-Ahmad11/Frameup">📱 Frameup</a></h3>
+      <p>A platform that brings university societies into one place — discover societies, follow events, and manage memberships and roles without the group-chat chaos.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">🐚 LinuxShell-C</a></h3>
+      <p>A working Unix shell written from scratch. Parses and runs commands with pipes and I/O redirection using <code>fork()</code>, <code>execvp()</code> and a custom tokenizer.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Muhammad-Ahmad11/Handwritten-Digit-Classification">🧠 Handwritten Digit Classification</a></h3>
+      <p>A convolutional neural network trained on MNIST that recognises handwritten digits with high accuracy, built to explore feature extraction and model tuning.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep learning"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">🗂️ File Repository System</a></h3>
+      <p>A generic, template-based hash table for file management, with a priority waiting queue that coordinates concurrent read and write requests.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Data%20Structures-6E40C9?style=flat-square" alt="Data structures"/>
+    </td>
+  </tr>
+</table>
 
+<p align="center"><a href="https://github.com/Muhammad-Ahmad11?tab=repositories"><b>→ See all repositories</b></a></p>
+
+<!-- ================= STACK ================= -->
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,ts,js,py,java&perline=6" alt="Languages" />
-</a>
-
-**Frameworks, Backend & Tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,vscode&perline=6" alt="Tools" />
-</a>
+| Area | Tools |
+|:---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=swift,ts,js,py,java,cpp,c&theme=dark" alt="Languages"/> |
+| **Mobile & Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Mobile and frontend"/> |
+| **Backend & Cloud** | <img src="https://skillicons.dev/icons?i=nodejs,firebase&theme=dark" alt="Backend and cloud"/> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Tooling"/> |
 
 </div>
 
-## 📊 GitHub Stats
+<!-- ================= STATS ================= -->
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/muhammad-ahmad11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-</a>
-<a href="https://github.com/muhammad-ahmad11">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ahmad11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</a>
+<!-- Cards switch automatically between light and dark to match the viewer's GitHub theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmad11&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad11&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0D1117"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmad11&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Muhammad-Ahmad11&theme=github-dark-blue&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Ahmad11&hide_border=true" alt="GitHub streak"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=muhammad-ahmad11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<!-- Contribution snake — generated daily by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Muhammad-Ahmad11/Muhammad-Ahmad11/output/github-snake.svg" alt="Contribution snake animation"/>
+</picture>
 
 </div>
 
-<!-- NOTE: github-readme-stats.vercel.app cards are sometimes rate-limited and may show an error. -->
-
----
-
+<!-- ================= CONNECT ================= -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always happy to talk about code, full-stack development, full-stack mobile development, and AI development.
+Hiring for mobile or full-stack work, or have an idea worth building? I reply fast.
 
-<a href="mailto:muhammadahmad.dev1@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/muhammad-ahmad-42776723a"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+📫 **muhammadahmad.dev1@gmail.com** &nbsp;·&nbsp; 💼 [linkedin.com/in/muhammad-ahmad-dev](https://www.linkedin.com/in/muhammad-ahmad-dev)
 
-<br/><br/>
+<sub>⭐ If something here helped you, a star on the repo always makes my day.</sub>
 
-*⭐ If you like something you see here, a star on a repo always makes my day.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer" alt="" width="100%"/>
 
 </div>
