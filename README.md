@@ -75,7 +75,7 @@ I like owning a feature end to end — from data model and API to a polished web
   </tr>
 </table>
 
-<p align="center"><sub>Systems work in C/C++: <a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">LinuxShell-C</a> · <a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">File Repository System</a> &nbsp;|&nbsp; Mobile: <a href="https://github.com/Muhammad-Ahmad11/Frameup">Frameup</a></sub></p>
+<p align="center"><sub>Systems work in C/C++: <a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">LinuxShell-C</a> · <a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">File Repository System</a> &nbsp;|&nbsp; Mobile: <b>FocusPal</b> &amp; <b>Kharchify</b> (React Native · TypeScript) · <b>Prize Bond Scanner &amp; Checker</b> (Android)</sub></p>
 
 <p align="center"><a href="https://github.com/Muhammad-Ahmad11?tab=repositories"><b>→ See all repositories</b></a></p>
 
