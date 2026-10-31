@@ -23,16 +23,15 @@
 const ahmad = {
   role:      "Software Engineer",
   location:  "Lahore, Pakistan 🇵🇰",
-  focus:     ["Full-stack web", "React + TypeScript", "Node.js + Express", "Python", "React Native"],
+  focus:     ["Full-stack web", "React + Next.js + TypeScript", "Node.js + Express", "Python", "React Native"],
   alsoBuild: ["AI / LLM-powered features", "iOS (Swift)"],
-  roots:     ["C / C++ systems programming", "Data structures & algorithms"],
   learning:  ["Scalable backend systems", "Production AI engineering"],
   values:    ["Clean code", "Readable architecture", "Shipping things people use"],
-  openTo:    ["Full-stack roles", "React Native roles", "Freelance"],
+  openTo:    ["Full-stack roles", "React Native roles", "Remote / on-site", "Freelance"],
 };
 ```
 
-I like owning a feature end to end — from data model and API to a polished web or mobile UI. My background in C/C++ (shells, hash tables, OpenGL) shapes how I think about performance and correctness, even when I'm writing TypeScript or Swift.
+I like owning a feature end to end — from data model and API to a polished web or mobile UI. I care about performance, correctness and code that the next engineer can read, and I use AI tools to ship faster without cutting corners.
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -75,7 +74,7 @@ I like owning a feature end to end — from data model and API to a polished web
   </tr>
 </table>
 
-<p align="center"><sub>Systems work in C/C++: <a href="https://github.com/Muhammad-Ahmad11/LinuxShell-C">LinuxShell-C</a> · <a href="https://github.com/Muhammad-Ahmad11/File-Repository-System">File Repository System</a> &nbsp;|&nbsp; Mobile: <b>FocusPal</b> &amp; <b>Kharchify</b> (React Native · TypeScript) · <b>Prize Bond Scanner &amp; Checker</b> (Android)</sub></p>
+<p align="center"><sub>Mobile: <b>FocusPal</b> &amp; <b>Kharchify</b> (React Native · TypeScript) · <b>Prize Bond Scanner &amp; Checker</b> (Android)</sub></p>
 
 <p align="center"><a href="https://github.com/Muhammad-Ahmad11?tab=repositories"><b>→ See all repositories</b></a></p>
 
@@ -86,8 +85,8 @@ I like owning a feature end to end — from data model and API to a polished web
 
 | Area | Tools |
 |:---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,c,swift&theme=dark" alt="Languages"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,swift&theme=dark" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="Frontend"/> |
 | **Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and data"/> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=react,swift&theme=dark" alt="Mobile: React Native and Swift"/> |
 | **AI & ML** | <img src="https://skillicons.dev/icons?i=py,tensorflow&theme=dark" alt="AI and ML"/> |
